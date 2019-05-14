@@ -1,0 +1,7 @@
+#!/opt/local/bin/kermit +
+set modem type none
+set line /dev/tty.KeySerial1
+set speed 9600
+set serial 8N1
+set flow none
+set carrier-watch off
